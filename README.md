@@ -1,7 +1,6 @@
 ### Opa tudo bom?! Prazer me chamo Giovanny!
 
-- 📚 Venho estudando JavaScript puro com o foco em desenvolvimento Web 
-- 🔍 Tenho conhecimentos em HTML5 e CSS3 com display flex e grid.
+- 📚 Venho estudando React com o foco em desenvolvimento Web 
 - 💡 Tenho outras experiências profissionais como design e social media!
 </br>
 <div style="display:inline-block" align="center"> 
