@@ -12,3 +12,6 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div></br>
  
+ <br/>
+ 
+[![@giovannydev's Holopin board](https://holopin.me/giovannydev)](https://holopin.io/@giovannydev)
