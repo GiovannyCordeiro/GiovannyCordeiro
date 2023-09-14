@@ -1,5 +1,7 @@
 ### Hello, welcome to my profile.
 
+Systems analysis and development student - UEPB
+
 ![image](https://img.shields.io/badge/PHP-474747?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-474747?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-474747?style=for-the-badge&logo=mysql&logoColor=white)
