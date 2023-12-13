@@ -14,3 +14,6 @@ Systems analysis and development student - UEPB
 ![image](https://img.shields.io/badge/Express.js-474747?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-474747?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Python-474747?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-474747.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-474747.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-474747.svg?style=for-the-badge&logo=kotlin&logoColor=white)
