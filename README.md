@@ -2,18 +2,7 @@
 
 Systems analysis and development student - UEPB
 
-![image](https://img.shields.io/badge/PHP-474747?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/Laravel-474747?style=for-the-badge&logo=laravel&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-474747?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-474747?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-474747?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-474747?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-474747?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Sass-474747?style=for-the-badge&logo=sass&logoColor=white)
-![image](https://img.shields.io/badge/React-474747?style=for-the-badge&logo=react&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-474747?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-474747?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Python-474747?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-474747.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-474747.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-474747.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
