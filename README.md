@@ -1,8 +1,6 @@
 ### Hello, welcome to my profile.
 
-A repetição constante gera convicção - Robert Collier
-
-Systems analysis and development student - UEPB
+Software Engineer
 
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
